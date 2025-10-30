@@ -17,7 +17,7 @@
             <a href="#projects" class="cta-button">Voir les Projets</a>
         </div>
     </section>
-         <!-- Section Articles -->
+         <!-- -Section Articles -->
     <section class="articles-section">
         <h2>Derniers Articles</h2>
         <div class="articles-grid">
