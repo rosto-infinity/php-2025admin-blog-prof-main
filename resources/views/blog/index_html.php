@@ -54,7 +54,7 @@
                 </div>
           <?php endforeach; ?>   
     </div>
-    <!-- Pagination -->
+    <!-- --Pagination -->
  <div class="pagination-wrapper">
      <?= $paginator ?>
  </div>
