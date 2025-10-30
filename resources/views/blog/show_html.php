@@ -75,7 +75,7 @@
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
     border: 1px solid rgba(0, 0, 0, 0.1); /* Contour léger */
     max-width: 400px; /* -Largeur maximale */
-    margin: 20px auto; /* Centrage */
+    margin: 20px auto; /* -Centrage */
 }
 
 .stats h3 {
